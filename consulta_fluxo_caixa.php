@@ -43,5 +43,8 @@
             }
         ?>
     </div>
+    <div>
+        <a href="consulta_fluxo_caixa.html">Voltar</a>
+    </div>
 </body>
 </html>
