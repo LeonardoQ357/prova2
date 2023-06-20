@@ -42,6 +42,9 @@
                 <td colspan='7'><center><a href='index.php'>Voltar</a></center></td>
               </tr>";
     }else{
+        echo "<tr>
+                <td colspan='7'><center><a href='index.php'>Voltar</a></center></td>
+              </tr>";
         echo 
         "<div>
         Nenhuma registro encontrado.
